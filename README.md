@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1o68g7V7mhhXMQVzte0NdnTYLVY9D-P9I/view?usp=sharing)
 
-- **Flutter Resume**: [Click here](https://drive.google.com/file/d/1jmh5-G0Pg2bkSg4RrN6UDQTqP8n4Yyef/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
